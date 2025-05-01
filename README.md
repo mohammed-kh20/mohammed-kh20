@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Mohammed Khader 👋💻</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=“Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.”" alt="Quote Animation" />
-</p>
+
 
 ---
 

@@ -33,22 +33,6 @@ I believe in writing clean code, crafting intuitive designs, and learning from e
 
 ---
 
-## GitHub Stats 📈
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedkhader&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1800" />
-</p>
-
----
-
-## Most Used Languages 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkhader&layout=compact&count_private=true&langs_count=10&theme=radical&cache_seconds=1800" />
-</p>
-
----
-
 ## Reach Out 📬
 
 I’m always open to collaborating on exciting projects and sharing ideas.  
